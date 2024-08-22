@@ -1,2 +1,2 @@
 # link-form
-https://secondshovon.github.io/link-form/
+https://secondshovon.github.io/link_form/
